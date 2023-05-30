@@ -1,0 +1,4 @@
+name:anuja
+class:3rd year
+subject:wad
+desp:this is file 1
